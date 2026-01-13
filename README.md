@@ -1,7 +1,7 @@
 # Programveckor2026
 
-Study-magician
-En hemsida som är schoolsoft med en study-buddy applikation(?)
+# Study Mage
+En planeringshemsida för elever
 
 Namn på alla deltagare
 Leoandro Montero Al-kassab
@@ -10,11 +10,12 @@ Adrian Jara Zeeck
 Filip Nordström
 Oscar Hole
 
-Tävlar i kategori:
+### Tävlar i kategori:
+Bästa helhetslösning
 Bästa innovativa idé
 
 Bästa användarupplevelse (UX/UI)
 
-Projekt & Teknisk- beskrivning
-Externt producerade komponenter
-Install
+## Projekt & Teknisk- beskrivning
+### Externt producerade komponenter
+### Install

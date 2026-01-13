@@ -12,7 +12,6 @@ Oscar Hole
 
 ### Tävlar i kategori:
 Bästa helhetslösning
-Bästa innovativa idé
 
 Bästa användarupplevelse (UX/UI)
 
